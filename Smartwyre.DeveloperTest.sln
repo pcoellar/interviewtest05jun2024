@@ -14,9 +14,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smartwyre.DeveloperTest.Run
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smartwyre.DeveloperTest.Tests", "Smartwyre.DeveloperTest.Tests\Smartwyre.DeveloperTest.Tests.csproj", "{579DD8AE-7BEA-45BC-B46A-FE9F071BFDE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smartwyre.DataLayer", "Smartwyre.DataLayer\Smartwyre.DataLayer.csproj", "{D3C54BEC-485C-4C74-AA66-DC999BA4EB01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smartwyre.DataLayer", "Smartwyre.DataLayer\Smartwyre.DataLayer.csproj", "{D3C54BEC-485C-4C74-AA66-DC999BA4EB01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smartwyre.Entities", "Smartwyre.Entities\Smartwyre.Entities.csproj", "{CA025758-9A24-4A6A-8DE1-D4E3F701D80B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smartwyre.Entities", "Smartwyre.Entities\Smartwyre.Entities.csproj", "{CA025758-9A24-4A6A-8DE1-D4E3F701D80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smartwyre.API", "Smartwyre.API\Smartwyre.API.csproj", "{D963C6A8-B34A-4747-B700-E65CD85B09ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,6 +46,10 @@ Global
 		{CA025758-9A24-4A6A-8DE1-D4E3F701D80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA025758-9A24-4A6A-8DE1-D4E3F701D80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA025758-9A24-4A6A-8DE1-D4E3F701D80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D963C6A8-B34A-4747-B700-E65CD85B09ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D963C6A8-B34A-4747-B700-E65CD85B09ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D963C6A8-B34A-4747-B700-E65CD85B09ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D963C6A8-B34A-4747-B700-E65CD85B09ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Smartwyre.API": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7036",
+      "launchBrowser": false
+    }
+  }
+}
